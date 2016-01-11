@@ -1,4 +1,0 @@
-#!/usr/bin/env php 
-<?php
-require_once dirname(__DIR__) . "/system/bootstrap.php";    
-require_once dirname(__DIR__) . "/application/dbimpactos/bootstrap.php";    
