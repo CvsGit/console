@@ -1,0 +1,30 @@
+{
+  "name": "cvsgit-console",
+  "version": "0.1.0",
+  "description": "Git commands for CVS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvsgit/console.git"
+  },
+  "keywords": [
+    "VCS",
+    "CVS",
+    "GIT",
+    "console",
+    "cli"
+  ],
+  "author": [
+    "Jeferson Belmiro",
+    "Rafael Nery"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvsgit/console/issues"
+  },
+  "homepage": "https://github.com/cvsgit/console#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "inquirer": "^0.11.2"
+  }
+}
