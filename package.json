@@ -1,8 +1,8 @@
 {
-  "name": "cvsgit-console",
+  "name": "cvsgit",
   "version": "0.1.0",
   "description": "Git commands for CVS",
-  "main": "index.js",
+  "main": "src/Application/Command/console.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cvsgit/console.git"
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/cvsgit/console#readme",
   "dependencies": {
+    "colors": "^1.1.2",
     "commander": "^2.9.0",
     "inquirer": "^0.11.2"
   }
